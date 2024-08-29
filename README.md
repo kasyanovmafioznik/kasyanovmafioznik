@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I am a third-year student at BSUIR. Now I am developing in mobile development on Flutter and Android SDK. I have strong skills in communicating and teamwork. I'm trying to improve my knowledge every day in mobile sphere!<br><br>- 🔭 I’m currently working on different Flutter projects.<br>- 📚 Everyday learning something new and improving my hard skills</p>
+<p align="left">I’m an experienced Flutter Developer with deep expertise in Flutter and Dart, specializing in creating high-performance, cross-platform mobile applications. I excel at managing state and UI complexities to ensure smooth app performance. I have strong experience integrating RESTful APIs and working with both SQL and NoSQL databases to build scalable and reliable solutions. My knowledge of DevOps tools, including CI/CD and containerization, enables me to optimize the development and delivery processes.<br><br>- 🔭 I’m currently working on different Flutter projects.<br>- 📚 Everyday learning something new and improving my hard skills</p>
 
 <h3 align="left">🛠 Technology Stack:</h3>
 
