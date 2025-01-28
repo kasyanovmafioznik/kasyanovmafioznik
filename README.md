@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ivan-kasyanov-170209255/?trk=opento_sprofile_topcard" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=blue&logoColor=white&labelColor=blue&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://t.me/Vano1289" target="_blank">
+  <a href="https://t.me/Vanchelllo7543" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
