@@ -27,7 +27,13 @@
 
 ###
 
-<p align="left">I’m an experienced Flutter Developer with deep expertise in Flutter and Dart, specializing in creating high-performance, cross-platform mobile applications. I excel at managing state and UI complexities to ensure smooth app performance. I have strong experience integrating RESTful APIs and working with both SQL and NoSQL databases to build scalable and reliable solutions. My knowledge of DevOps tools, including CI/CD and containerization, enables me to optimize the development and delivery processes.<br><br>- 🔭 I’m currently working on different Flutter projects.<br>- 📚 Everyday learning something new and improving my hard skills</p>
+<p align="left">I'm a skilled Software Developer specializing in Flutter app development. My expertise includes building scalable, high-performance cross-platform mobile applications using modern Flutter features and the Dart programming languages.
+
+💾 I have experience designing and implementing robust data architectures, working proficiently with local databases like SQLite, as well as integrating with RESTful APIs . My skills extend to managing cloud solutions, including Firebase services. I am well-versed in state management solutions such as Provider, GetX, and Bloc for creating maintainable and efficient app architectures.
+
+⚙️I have experience with app publishing on both the Google Play Store and Apple App Store. My knowledge of version control systems like Git, combined with my ability to optimize app performance, ensures efficient and reliable development workflows.
+
+🌍 With B1 level English proficiency, I communicate effectively and adapt quickly to new challenges and technologies. I'm passionate about delivering high-quality mobile experiences and solving complex user-centric problems with clean, maintainable code.</p>
 
 <h3 align="left">🛠 Technology Stack:</h3>
 
